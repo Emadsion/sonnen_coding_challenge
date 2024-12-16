@@ -2,10 +2,10 @@
 My implementation for Sonnen python testing coding challenge including all 4 requirements 
 
 ## Content
-	1. Pytest_coding_challenge 
-	2. Fibonacci_sequence code
-	3. fixtures_vs_setup&teardown document
-	4. Machine_learning_in_automation_test document
+- Pytest_coding_challenge 
+- Fibonacci_sequence code
+- fixtures_vs_setup&teardown document
+- Machine_learning_in_automation_test document
 	
 ## Contact
 
